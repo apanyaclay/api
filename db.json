@@ -1,10 +1,11 @@
 {
-  "login": [
+  "posts": [
     {
       "id": 1,
-      "nama": "hello",
-      "foto": "hello",
-      "email": "hello"
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
