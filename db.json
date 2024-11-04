@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "login": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "quiz": {
     "name": "typicode"
   }
 }
