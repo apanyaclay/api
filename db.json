@@ -1,11 +1,36 @@
 {
-  "posts": [
+  "login": [
     {
       "id": 1,
-      "title": "hello"
+      "nama": "hello",
+      "foto": "hello",
+      "email": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "quiz": [
+    {
+      "id": 1,
+      "soal": "Apa ?"
+    },
+    {
+      "id": 2,
+      "soal": "Dimana ?"
+    },
+    {
+      "id": 3,
+      "soal": "Siapa ?"
+    },
+    {
+      "id": 4,
+      "soal": "Kapan ?"
+    },
+    {
+      "id": 5,
+      "soal": "Bagaimana ?"
+    },
+    {
+      "id": 6,
+      "soal": "Mengapa ?"
+    },
+  ]
 }
